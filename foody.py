@@ -3,3 +3,4 @@ if x==1:
 	print("order is ready")
 else:
 	print("wait for sometime")
+print("thanks for coming.")
